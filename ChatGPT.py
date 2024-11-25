@@ -1,5 +1,5 @@
 from openai import OpenAI
-chave_api = ""
+chave_api = "SUA CHAVE"
 client = OpenAI(
     api_key=chave_api
 )
