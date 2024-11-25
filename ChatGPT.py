@@ -1,5 +1,5 @@
 from openai import OpenAI
-chave_api = "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"
+chave_api = ""
 client = OpenAI(
     api_key=chave_api
 )
